@@ -1,3 +1,3 @@
 # Hi there 👋
 
-Visit my [personal website](https://roycifer.com) for more about me!
+Visit my [personal website](https://roycifer.com) for more info about me!
